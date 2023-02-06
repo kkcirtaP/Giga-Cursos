@@ -768,16 +768,16 @@ strong {
   overflow: hidden;
 }
 
-.volunteer-section::after {
+/* .volunteer-section::after {
   content: "";
-  background: var(--primary-color);
+  background: none;
   border-radius: 50%;
   position: absolute;
   bottom: -110px;
   right: -80px;
   width: 350px;
   height: 350px;
-}
+} */
 
 .volunteer-form {
   background: var(--white-color);
@@ -785,14 +785,14 @@ strong {
   padding: 50px;
 }
 
-.volunteer-image {
+/* .volunteer-image {
   border-radius: 100%;
   display: block;
   margin: auto;
   width: 300px;
   height: 200px;
   object-fit: cover;
-}
+} */
 
 .volunteer-section .custom-block-body {
   max-width: 440px;
